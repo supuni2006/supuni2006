@@ -97,6 +97,4 @@
 <p align="center">
   💙 Made with passion & creativity
 </p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chanithmaaa&label=Profile%20views&color=4F46E5&style=flat" />
-</div>
+
