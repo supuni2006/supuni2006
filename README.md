@@ -1,91 +1,23 @@
-<!-- Gradient Header -->
+<!-- 🌌 Animated Gradient Bar -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/supuni2006/assets/main/gradient-bar.gif" width="100%" />
 </div>
 
-<!-- Name + Typing Animation -->
+<!-- ✨ Name + Typing Animation -->
 <h1 align="center">
-  ✨ Supuni Kaushalya Jayarathne ✨
+  ✨ I'm <span style="color:#ff7bd5;">Supuni Kaushalya Jayarathne</span> ✨
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=FF7BD5&center=true&vCenter=true&width=600&lines=Software+Developer;Creative+Designer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&color=FF7BD5&center=true&vCenter=true&width=500&lines=Software+Developer;UI%2FUX+Designer;Creative+Tech+Enthusiast" />
 </p>
 
----
+<br>
 
-<!-- Profile Intro -->
+<!-- 🌟 Floating Images (Cleaner + Balanced) -->
 <div align="center">
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" width="120px" style="border-radius:50%; box-shadow:0 0 20px #ff7bd5;" />
-</div>
-
-<p align="center">
-  Undergraduate at <b>IIT Sri Lanka</b> <br>
-  Passionate about <b>Software Development</b> & building creative tech solutions 🌱
-</p>
-
----
-
-## 🌸 About Me
-
-- 🔭 Currently seeking **internship opportunities**
-- 🌱 Learning **Python, Java, Full-Stack Development**
-- 🎯 Focused on improving **problem-solving & real-world projects**
-- ⚡ Love **design, sports & creative ideas**
-
----
-
-## 🎨 Tech Stack
-
-<div align="center">
-
-### 🌈 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-
-### 💫 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### ⭐ Languages
-<img src="https://skillicons.dev/icons?i=js,python,java,php" />
-
-</div>
-
----
-
-## 🚀 Projects & Growth
-
-<p align="center">
-  💡 Building real-world applications <br>
-  📈 Continuously learning & improving <br>
-  🤝 Open to collaboration
-</p>
-
----
-
-## 💗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/supuni2006">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/supuni-kaushalya-9140a12a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff7bd5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/supu_jayarathne/">
-  <img src="https://img.shields.io/badge/Instagram-9d7bff?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- Subtle Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=supuni2006&style=flat-square&color=ff7bd5" />
-</div>  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" width="240px" style="border-radius:18px; box-shadow:0 0 20px #9d7bff;" />
+  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" width="240px" style="border-radius:18px; box-shadow:0 0 20px #ff7bd5;" />
+  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" width="240px" style="border-radius:18px; box-shadow:0 0 20px #9d7bff;" />
 </div>
 
 <br>
