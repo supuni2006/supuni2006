@@ -1,24 +1,119 @@
-<!-- 🌌 Gradient Bar -->
+<!-- 🌌 Animated Gradient Bar -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/supuni2006/assets/main/gradient-bar.gif" width="100%" />
 </div>
 
 <!-- ✨ Name -->
 <h1 align="center">
-  ✨ <span style="background: linear-gradient(90deg,#ff7bd5,#9d7bff,#7bdcff); -webkit-background-clip:text; color:transparent;">
+  ✨ I'm <span style="background: linear-gradient(90deg,#ff6ec7,#a56eff,#36d6ff); -webkit-background-clip:text; color:transparent;">
   Supuni Kaushalya Jayarathne
   </span> ✨
 </h1>
 
 <!-- 💫 Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&color=FF7BD5&center=true&vCenter=true&width=500&lines=Software+Developer;UI%2FUX+Designer;Creative+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Software+Developer;UI%2FUX+Designer;Creative+Tech+Enthusiast" />
 </p>
 
 <br>
 
-<!-- 🌟 FLOATING ICONS (SUBTLE) -->
+<!-- 🌟 Images with Neon Color Filter -->
 <div align="center">
+  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" width="230px"
+    style="border-radius:18px;
+    box-shadow:0 0 25px rgba(255,110,199,0.7);
+    filter:hue-rotate(320deg) saturate(1.3);" />
+
+  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" width="230px"
+    style="border-radius:18px;
+    box-shadow:0 0 25px rgba(165,110,255,0.7);
+    filter:hue-rotate(280deg) saturate(1.3);" />
+</div>
+
+<br>
+
+<!-- 💫 Intro -->
+<div align="center" style="max-width:600px;">
+  <p style="color:#cbd5e1;">
+    I am an Undergraduate at <b style="color:#a56eff;">IIT Sri Lanka</b>, passionate about 
+    <b style="color:#ff6ec7;">Software Development</b> and building creative digital experiences 💻✨
+  </p>
+</div>
+
+<br>
+
+---
+
+## 🌸 About Me
+
+- 🔭 Currently seeking <span style="color:#ff6ec7;">internship opportunities</span>  
+- 🌱 Learning <span style="color:#a56eff;">Python, Java, Web Development</span>  
+- 🎯 Goal: Become a <span style="color:#36d6ff;">skilled software developer</span>  
+- ⚡ Fun fact: I enjoy <span style="color:#ff6ec7;">design & creative tech</span>  
+- 📫 Email: <span style="color:#a56eff;">supuni2006k@gmail.com</span>
+
+---
+
+## 🎨 Tech Stack
+
+<div align="center">
+
+### 🌈 Frontend  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+
+### 💫 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+### ⭐ Languages  
+<img src="https://skillicons.dev/icons?i=js,python,java,php&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=supuni2006&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6ec7&icon_color=a56eff" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supuni2006&theme=tokyonight&hide_border=true&ring=ff6ec7&fire=a56eff" height="150"/>
+
+</div>
+
+---
+
+## 💗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/supuni2006">
+  <img src="https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=ff6ec7"/>
+</a>
+
+<a href="https://www.linkedin.com/in/supuni-kaushalya-9140a12a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-18122B?style=for-the-badge&logo=linkedin&logoColor=a56eff"/>
+</a>
+
+<a href="https://www.instagram.com/supu_jayarathne/">
+  <img src="https://img.shields.io/badge/Instagram-18122B?style=for-the-badge&logo=instagram&logoColor=ff6ec7"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- 👀 Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=supuni2006&color=a56eff&style=flat-square" />
+</div>
+
+---
+
+<!-- ✨ Footer -->
+<p align="center" style="color:#9ca3af;">
+  ✨ Designed with a neon aesthetic ✨
+</p><div align="center">
 
 <img src="https://skillicons.dev/icons?i=react" width="40"
 style="margin:10px; animation: float 4s ease-in-out infinite;" />
