@@ -93,6 +93,9 @@
 > "Code. Create. Innovate."
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=supuni&label=Profile%20views&color=0:0f2027&style=flat" />
+</div>
 
 <p align="center">
   💙 Made with passion & creativity
