@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Supuni%20Kaushalya%20Jayarathne&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">💻 Software Developer | 💻 Full-Stack Developer | 🚀 Tech Enthusiast</h3>
+<h3 align="center">💻 Software Developer | 👩‍💻 Full-Stack Developer | 🚀 Tech Enthusiast</h3>
 
 ---
 
