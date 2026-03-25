@@ -9,14 +9,13 @@
     body {
       margin: 0;
       font-family: 'Poppins', sans-serif;
-      background-color: #0a0a0a; /* Deep dark background */
+      background-color: #0d0d0d;
       color: #ffffff;
       scroll-behavior: smooth;
     }
 
     h1, h2, h3 {
       margin: 0.5em 0;
-      text-shadow: 0 0 5px #ff7bd5, 0 0 10px #ff7bd5, 0 0 20px #9d7bff;
     }
 
     /* Gradient bar animation */
@@ -27,6 +26,169 @@
 
     /* Floating animation */
     @keyframes floating {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-15px); }
+      100% { transform: translateY(0px); }
+    }
+
+    .floating-img {
+      border-radius: 20px;
+      box-shadow: 0 0 15px #ff7bd5;
+      animation: floating 3s ease-in-out infinite;
+      transition: transform 0.3s;
+    }
+
+    .floating-img:hover {
+      transform: scale(1.05);
+    }
+
+    /* Centered container */
+    .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin: 20px 0;
+    }
+
+    /* Neon Tech Stack Cards */
+    table {
+      width: 90%;
+      margin: auto;
+      text-align: center;
+      border-collapse: collapse;
+    }
+
+    table img {
+      margin: 10px;
+      transition: transform 0.3s;
+    }
+
+    table img:hover {
+      transform: scale(1.2);
+    }
+
+    /* Badges */
+    .badges a img {
+      margin: 5px;
+    }
+
+    /* Section separator */
+    hr {
+      border: 1px solid #333;
+      margin: 40px 0;
+    }
+
+    /* About & Connect section */
+    .section {
+      text-align: center;
+      max-width: 900px;
+      margin: auto;
+      padding: 10px;
+    }
+
+    /* Links */
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Animated Gradient Background -->
+  <div class="gradient-bar">
+    <img src="https://raw.githubusercontent.com/supuni2006/assets/main/gradient-bar.gif" alt="Gradient Bar" />
+  </div>
+
+  <!-- Header -->
+  <h1 align="center">✨ I'm <span style="color:#ff7bd5;">Supuni Kaushalya Jayarathne</span> ✨</h1>
+  <div align="center">
+    <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" width="30px"/>
+  </div>
+
+  <!-- Floating Images -->
+  <div class="center">
+    <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" width="250px" class="floating-img" style="box-shadow:0 0 15px #ff7bd5; animation-duration:3s;"/>
+    <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" height="200px" class="floating-img" style="box-shadow:0 0 15px #9d7bff; animation-duration:3.2s;"/>
+    <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" width="230px" class="floating-img" style="box-shadow:0 0 15px #7bdcff; animation-duration:3.4s;"/>
+  </div>
+
+  <!-- About Me -->
+  <div class="section">
+    <p>I am an Undergraduate Student at <b>IIT Sri Lanka</b>, passionate about <b>Software Development</b> and continuously improving my skills 🌱</p>
+  </div>
+
+  <hr>
+
+  <!-- About Me Details -->
+  <div class="section">
+    <h2>🌸 About Me</h2>
+    <ul style="list-style:none; padding:0;">
+      <li>🔭 Seeking internship opportunities</li>
+      <li>🌱 Learning <b>Python, Java, Web Development</b>, and problem-solving</li>
+      <li>📫 Contact: <b>supuni2006k@gmail.com</b></li>
+      <li>⚡ Fun fact: I love <b>designing, sports, and creative tech ideas!</b></li>
+    </ul>
+  </div>
+
+  <hr>
+
+  <!-- Tech Stack -->
+  <div class="section">
+    <h2>🎨 Tech Stack</h2>
+    <table>
+      <tr>
+        <td width="33%">
+          <h3>🌈 Frontend</h3>
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/>
+        </td>
+        <td width="33%">
+          <h3>💫 Backend</h3>
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>
+        </td>
+        <td width="33%">
+          <h3>⭐ Languages</h3>
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" height="50"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <hr>
+
+  <!-- Connect -->
+  <div class="section badges">
+    <h2>💗 Connect With Me</h2>
+    <div align="center">
+      <a href="https://github.com/supuni2006" target="_blank">
+        <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/supuni-kaushalya-9140a12a6/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://www.instagram.com/supu_jayarathne/" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </div>
+    <br>
+    <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=supuni2006&&style=flat-square" />
+    </div>
+  </div>
+
+</body>
+</html>    @keyframes floating {
       0% { transform: translateY(0px); }
       50% { transform: translateY(-15px); }
       100% { transform: translateY(0px); }
