@@ -1,110 +1,77 @@
-<!-- Animated Gradient Background -->
+<!-- Soft Gradient Header -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/supuni2006/assets/main/gradient-bar.gif" width="100%" />
 </div>
 
 <h1 align="center">
-  ✨ I'm <span style="color:#ff7bd5;">Supuni Kaushalya Jayarathne</span> ✨  
+  🌸 Hi, I'm <span style="color:#ff6fa5;">Supuni Kaushalya</span> 🌸
 </h1>
 
-<div align="center">
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" width="30px"/>
-</div>
-
-<br>
-
-<!-- Floating Images -->
-<div align="center" style="display:flex; gap:20px; justify-content:center;">
-  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" width="250px" style="border-radius:20px; box-shadow:0 0 15px #ff7bd5; animation:floating 3s ease-in-out infinite;"/>
-  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" height="200px" style="border-radius:20px; box-shadow:0 0 15px #9d7bff; animation:floating 3.2s ease-in-out infinite;"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" width="230px" style="border-radius:20px; box-shadow:0 0 15px #7bdcff; animation:floating 3.4s ease-in-out infinite;"/>
-</div>
-
-<br>
-
-<div align="center">
-I am an Undergraduate Student at <b>IIT Sri Lanka</b>, passionate about  
-<b>Software Development</b> and continuously improving my skills 🌱
-</div>
-
-<br>
+<p align="center">
+  💻 Undergraduate @ IIT Sri Lanka <br>
+  ✨ Aspiring Software Developer | Creative Thinker  
+</p>
 
 ---
 
-## 🌸 **About Me**
-- 🔭 Seeking internship opportunities  
-- 🌱 Learning **Python, Java, Web Development**, and problem-solving  
-- 📫 Contact: **supuni2006k@gmail.com**  
-- ⚡ Fun fact: I love **designing, sports, and creative tech ideas!**  
+## 💖 About Me
+
+🌷 Passionate about building beautiful and functional applications  
+🌷 Currently learning **Python, Java & Full-Stack Development**  
+🌷 Interested in **UI/UX + Problem Solving**  
+🌷 Looking for **internship opportunities**  
+
+📧 **Email:** supuni2006k@gmail.com  
 
 ---
 
-# 🎨 **Tech Stack**
+## 🌸 Tech Stack
 
-<!-- Neon Cards -->
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<div align="center">
+
+💗 **Frontend**  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+
+💜 **Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+💙 **Languages**  
+<img src="https://skillicons.dev/icons?i=js,python,java,php" />
+
+</div>
+
+---
+
+## ✨ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supuni2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
   
-### 🌈 Frontend  
-<div>
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supuni2006&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 </div>
-
-</td>
-<td align="center" width="33%">
-
-### 💫 Backend  
-<div>
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>
-</div>
-
-</td>
-<td align="center" width="33%">
-
-### ⭐ Languages  
-<div>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50"/>
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
-# 💗 Connect With Me
-
-<div align="center"> 
-  <a href="https://github.com/supuni2006" target="_blank">
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/supuni-kaushalya-9140a12a6/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/supu_jayarathne/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<br>
+## 🌷 Connect With Me
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=supuni2006&&style=flat-square" />
+
+<a href="https://github.com/supuni2006">
+  <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/supuni-kaushalya-9140a12a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-d291ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/supu_jayarathne/">
+  <img src="https://img.shields.io/badge/Instagram-ff85a2?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-<!-- Floating
+<div align="center">
+  🌸 *"Code with logic, design with love"* 🌸
+</div>
