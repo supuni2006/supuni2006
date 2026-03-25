@@ -1,51 +1,97 @@
 <!-- 🌌 Animated Gradient Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/supuni2006/assets/main/gradient-bar.gif" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Supuni%20Kaushalya%20Jayarathne&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h1 align="center">
-  ✨ I'm <span style="background: linear-gradient(90deg,#ff7bd5,#9d7bff,#7bdcff); -webkit-background-clip:text; color:transparent;">
-  Supuni Kaushalya Jayarathne</span> ✨
-</h1>
+<h3 align="center">💻 Software Developer | 🎨 Creative Designer | 🚀 Tech Enthusiast</h3>
+
+---
+
+### 🌟 About Me
+- 🎓 BSc (Hons) Computer Science Undergraduate (IIT - University of Westminster)
+- 💡 Passionate about **software development & problem solving**
+- 📊 Interested in **data analysis & modern technologies**
+- 🤝 Strong in teamwork, leadership & creativity  
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Languages & Web
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
 <p align="center">
-  <em>Software Developer | Designer | Problem Solver</em>
+  <img src="https://img.shields.io/badge/ZOHO%20FSM-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Katalon-black?style=for-the-badge" />
 </p>
 
 ---
 
-### 🛠 Skills
-- **Languages:** Python, Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** React, Node.js, Git, VS Code  
-- **Other Skills:** Web Design, Video Editing, Data Analysis, Sports Teamwork
+### 🚀 Projects
 
----
+- 🌐 **Portfolio Website**  
+  Responsive personal website using HTML, CSS, JavaScript  
 
-### 🌱 Current Goals
-- Build advanced projects in Python & JavaScript  
-- Improve coding algorithms and problem-solving skills  
-- Gain industry experience through internships & collaborations  
+- 🏨 **Seenaalee Villa Website**  
+  Booking + service system website  
 
----
+- 🚗 **resQcar Mobile App**  
+  GPS-based roadside assistance system using Node.js & Firebase  
 
-### 💻 Projects
-- [Portfolio Website](https://github.com/supuni2006/portfolio) – Personal website with animations & dark aesthetic theme  
-- [Traffic Data Analyzer](https://github.com/supuni2006/traffic-analyzer) – Python program for analyzing traffic datasets  
-- [App Projects] – Mobile app development projects during IIT coursework  
+- 📚 **Java Student Management System**  
+  Record management desktop app  
+
+- 📊 **Python Data Analysis Tool**  
+  Data visualization and dataset analysis  
 
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supuni2006&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuni2006&hide=html,css&layout=compact&theme=radical" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supuni2006&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuni2006&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
+</p>
 
 ---
 
-### 🤝 Let's Connect
+### 🔥 Contribution Streak
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/supunijayarathne/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:supunijayarathne@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/supunijayarathne/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://streak-stats.demolab.com?user=supuni2006&theme=tokyonight&border_radius=10"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/supuni-kaushalya-9140a12a6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:supuni.20231871@iit.ac.lk">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/supuni2006">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ Quote
+> "Code. Create. Innovate."
+
+---
+
+<p align="center">
+  💙 Made with passion & creativity
 </p>
