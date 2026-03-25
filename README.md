@@ -36,15 +36,17 @@
 ---
 
 ### 🚀 Projects
-
-- 🌐 **Portfolio Website (https://supunikaushalya.vercel.app)**/n 
+- 🌐 **Portfolio Website**  
+  [https://supunikaushalya.vercel.app](https://supunikaushalya.vercel.app)  
   Responsive personal website using HTML, CSS, JavaScript  
 
-- 🏨 **Seenaalee Villa Website (www.seenaaleevilla.com)**/n
-  Booking + service system website  
+- 🏨 **Seenaalee Villa Website**  
+  [www.seenaaleevilla.com](http://www.seenaaleevilla.com)  
+  Booking and service system website  
 
-- 🚗 **resQcar Mobile App (https://www.resqcar.com)**/n
-  GPS-based roadside assistance system using Node.js & Firebase  
+- 🚗 **resQcar Mobile App**  
+  [https://www.resqcar.com](https://www.resqcar.com)  
+  GPS-based roadside assistance system using Node.js & Firebase 
 
 - 📚 **Java Student Management System**  
   Record management desktop app  
