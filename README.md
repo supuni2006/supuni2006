@@ -37,13 +37,13 @@
 
 ### 🚀 Projects
 
-- 🌐 **Portfolio Website (https://supunikaushalya.vercel.app)**
+- 🌐 **Portfolio Website (https://supunikaushalya.vercel.app)**/n 
   Responsive personal website using HTML, CSS, JavaScript  
 
-- 🏨 **Seenaalee Villa Website (www.seenaaleevilla.com)**
+- 🏨 **Seenaalee Villa Website (www.seenaaleevilla.com)**/n
   Booking + service system website  
 
-- 🚗 **resQcar Mobile App (https://www.resqcar.com)**
+- 🚗 **resQcar Mobile App (https://www.resqcar.com)**/n
   GPS-based roadside assistance system using Node.js & Firebase  
 
 - 📚 **Java Student Management System**  
