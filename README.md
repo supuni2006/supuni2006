@@ -10,6 +10,7 @@
 ### 🌟 About Me
 - 🎓 BSc (Hons) Computer Science Undergraduate (IIT - University of Westminster)
 - 💡 Passionate about **software development & problem solving**
+- 🌱 I’m currently learning React, Node.js, Flutter, express.js
 - 📊 Interested in **data analysis & modern technologies**
 - 🤝 Strong in teamwork, leadership & creativity  
 
